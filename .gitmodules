@@ -1,9 +1,9 @@
 [submodule "common"]
 	path = common
-	url = ./common/
+	url = https://github.com/segfo/mikan_common
 [submodule "mikan_kernel"]
 	path = mikan_kernel
-	url = ./mikan_kernel/
+	url = https://github.com/segfo/mikan_kernel
 [submodule "mikan_loader"]
 	path = mikan_loader
-	url = ./mikan_loader/
+	url = https://github.com/segfo/mikan_loader
