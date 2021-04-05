@@ -1,5 +1,9 @@
-# mikan_os(loader)
-mikan osのRust実装
+# mikan_os
+mikan osのRust実装  
+
+./common/ : 共通部品。フレームバッファやアセンブラ関数。  
+./mikan_kernel/ : カーネル  
+./mikan_loader/ : ローダー  
 
 # 進め方
 2章以降に対応するコードを、章の区切りでコミットしていく。
